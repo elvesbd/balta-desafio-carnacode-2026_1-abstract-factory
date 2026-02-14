@@ -5,7 +5,7 @@
 
 using System;
 
-namespace DesignPatternChallenge
+namespace DesignPatternChallenge.Legacy
 {
     // Contexto: Sistema de pagamentos que precisa trabalhar com diferentes gateways
     // Cada gateway tem sua própria forma de processar, validar e logar transações
