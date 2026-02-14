@@ -1,0 +1,6 @@
+namespace DesignPatternChallenge.Abstractions;
+
+public interface IPaymentLogger
+{
+    void Log(string message);
+}
