@@ -1,5 +1,5 @@
-using DesignPatternChallenge.Abstractions;
 using DesignPatternChallenge.Factories;
+using DesignPatternChallenge.Abstractions;
 
 namespace DesignPatternChallenge.Gateways.MercadoPago;
 
